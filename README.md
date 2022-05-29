@@ -7,20 +7,26 @@ A walk through the project:
 3. accouting for missing values
 4. Implementing EDA to derive observations
     a. Top 3 countries that uses zomato:
+    
     Majority of the transcations/records are from India followed by US and the UK i.e. India has the maximum number of users
     
     b. checking the ratings:
+    
     HIghest number contributes to 'not rated' in comparison to other ratings=2148
     Maximum number of rating are between 2.5 to 3.4
     
-    c.countries that gave 0/null rating
+    c.countries that gave 0/null rating:
+    
     max no. of 0 ratings are from indian customers.
     
-    d. online deliveries
+    d. online deliveries:
+    
     Online deliveries are available for India and UAE, with total of 2451 locations
     
-    e.pie chart for top 5 cities usinf Zomato in India
+    e. pie chart for top 5 cities usinf Zomato in India:
+    
     Highest percentage of usage is in New Delhi with 68.87%, followed by Gurgaon and Noida
     
-    f.cuisines that has highest order value
+    f. cuisines that has highest order value:
+    
     The most popular cuisine is North Indian constituting of 26.58%
